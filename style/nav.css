@@ -1,5 +1,6 @@
 @import url(global.css);
 @import url(nav.css);
+@import url(header.css);
 
 nav {    
     display: flex;
@@ -16,7 +17,7 @@ nav ul {
     list-style: none;
     display: flex;
     align-items: center;
-    
+    font-size: 16px;
     gap: 24px;
     padding-block: 8px;
 }
